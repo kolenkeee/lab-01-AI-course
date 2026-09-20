@@ -1,0 +1,10 @@
+{
+  "model": "opus-5",
+  "model_id": "gemini-3.6-flash",
+  "request_tokens": {
+    "en": 100,
+    "ru": 130,
+    "kk": 236
+  },
+  "one_request_billed": null
+}
